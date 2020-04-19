@@ -1,0 +1,226 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/* header start */
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+	font-size: 20px;
+}
+/* header end */
+/* slider start */
+.slider{
+	padding-bottom: 80px;
+}
+.carousel-indicators li {
+    width: 13px;
+    height: 13px;
+}
+.inspire{
+	margin-top: 5px;
+	text-align: center;
+}
+.inspire h1{
+	font-size: 25px;
+}
+.inspire ul li i{
+	font-size: 35px;
+	margin-right: 15px;
+}
+/* slider end */
+/* features start */
+.features{
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.title h1{
+	font-size: 25px;
+}
+.title p{
+	font-size: 18px;
+}
+.icon{
+	font-size: 38px;
+}
+.p_l_0{
+	padding-left: 15px;
+}
+.t_center{
+	text-align: center;
+}
+.m_t_30{
+	margin-top: 20px;
+}
+/* features end */
+/* contact start */
+.contact{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.contact_form input{
+	padding: 20px 10px;
+}
+.form-control{
+	text-align: center;
+}
+.contact_form button{
+	width: 100%;
+	padding: 8px 0;
+	margin-top: 10px;
+}
+/* contact end */
+/* link-social start */
+/* link-social end */
+.address{
+	padding-top: 0;
+	padding-bottom: 70px;
+}
+.first{
+	text-align: center;
+	padding-left: 0px;
+}
+.second, .third, .forth, .fifth{
+	padding-top: 20px;
+	text-align: center;
+	padding-left: 0px;
+}
+footer{
+	padding-bottom: 60px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/* header end */
+/* slider start */
+.carousel-indicators li {
+    width: 13px;
+    height: 13px;
+}
+.inspire{
+	margin-top: 15px;
+	text-align: center;
+}
+/* slider end */
+/* features start */
+.features{
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.icon{
+	font-size: 38px;
+}
+.t_center{
+	text-align: center;
+}
+/* features end */
+/* contact start */
+.contact{
+	padding-top: 70px;
+	padding-bottom: 75px;
+}
+.title h1{
+    font-size: 29px;
+}
+.title p{
+    font-size: 19px;
+}
+.contact_form input{
+	padding: 21px 10px;
+}
+.contact_form button{
+	padding: 10px 25px;
+}
+/* contact end */
+/* link-social start */
+.link-social{
+	margin-top: 58px;
+}
+.link-social ul li a img{
+	margin-left: 0;
+}
+/* link-social end */
+/* address start */
+address{
+	padding-left: 0;
+}
+.address{
+	padding-top: 0;
+	padding-bottom: 80px;
+}
+/* address end */
+footer {
+    padding-bottom: 80px;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+}
+/* header end */
+/* slider start */
+.carousel-indicators li {
+    width: 13px;
+    height: 13px;
+}
+.inspire{
+	margin-top: 15px;
+}
+.inspire h1{
+	font-size: 27px;
+}
+/* slider end */
+/* features start */
+.features{
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+.icon{
+	font-size: 42px;
+}
+/* features end */
+/* contact start */
+.contact_form button{
+	padding: 15px 32px;
+}
+/* contact end */
+/* link-social start */
+.link-social ul li a img{
+	margin-left: 0;
+}
+/* link-social end */
+/* address start */
+address{
+	padding-left: 20px;
+}
+.address{
+	padding-top: 10px;
+	padding-bottom: 80px;
+}
+/* address end */
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* contact start */
+.contact{
+	padding-bottom: 80px;
+}
+.contact_form button{
+	padding: 15px 37px;
+}
+/* contact end */
+/* link-social start */
+/* link-social end */
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
